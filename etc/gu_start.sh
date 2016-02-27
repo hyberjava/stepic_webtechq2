@@ -1,0 +1,1 @@
+gunicorn --log-file=/home/box/gunicorn.log wsgi -b 0.0.0.0:8080
